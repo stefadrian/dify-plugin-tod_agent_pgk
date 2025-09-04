@@ -4,6 +4,9 @@
 **Repository:** [dify-plugin-tod_agent](https://github.com/svcvit/dify-plugin-tod_agent)
 **Version:** 0.0.4
 
+
+This is only a fork with changes to meet my requirements, and that is , if user refuses to give an field  (eg.:says "no") i filled that field with "refused"
+
 ### Description
 
 ![](./_assets/tod.jpg)
@@ -129,4 +132,5 @@ The agent supports two dialogue strategies:
 - Project initialization
 - Implemented multi-turn dialogue
 - Implemented conversation state storage
+
 - Implemented intelligent Q&A content extraction
